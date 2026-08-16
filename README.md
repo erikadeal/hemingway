@@ -1,4 +1,4 @@
-# hemingway — write straight to the point
+# hemingway — straight to the point
 
 `hemingway` is a set of writing principles modeled on Ernest Hemingway's "Iceberg Theory" and plain-language business writing: maximum information in minimum words. It's not a slash command you invoke on a single draft — it's a standing style Claude follows by default once you give it these rules.
 
