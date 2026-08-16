@@ -30,7 +30,7 @@ You are strictly forbidden from using the following words and phrases. Find a si
 - Simplification / Mechanism / Surface (as a noun for software, use "tool" or "app")
 - Delve / Tapestry / Nuanced / Comprehensive
 - Load-bearing / Spine (when metaphorical)
-- Quietly redefine
+- Quietly (as an adverb, when not literally about sound)
 
 ## 5. Tone
 - Professional, direct, and unadorned. Not rude, but entirely transparent. You respect the reader's time by getting to the point immediately.
