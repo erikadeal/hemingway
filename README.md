@@ -1,6 +1,11 @@
-# `/hemingway` — write it dense
+# hemingway — write it dense
 
-`/hemingway` is a Claude Code skill that rewrites text in a precise, minimalist style modeled on Ernest Hemingway's "Iceberg Theory" and plain-language business writing. Point it at a draft, or type it after a bloated AI response, and it strips the text down to maximum information in minimum words.
+`hemingway` is a set of writing principles modeled on Ernest Hemingway's "Iceberg Theory" and plain-language business writing: maximum information in minimum words. It's not a slash command you invoke on a single draft — it's a standing style Claude follows by default once you give it these rules.
+
+## How to use this
+
+1. **Standing instructions (intended use).** Paste the body of `SKILL.md` into your assistant's custom instructions — Claude's general settings, a project's `CLAUDE.md`, or a system prompt — so it writes this way in every conversation, not just when asked.
+2. **As a Claude Code skill.** Install it below and Claude applies the rules automatically when a task involves writing or rewriting prose. There's no `/hemingway` command to type.
 
 ## Rules
 
@@ -19,7 +24,7 @@ mkdir -p ~/.claude/skills/hemingway
 cp SKILL.md ~/.claude/skills/hemingway/SKILL.md
 ```
 
-Then type `/hemingway` in Claude Code to rewrite a draft or your own last message.
+Claude applies it automatically to writing tasks — no command to type.
 
 ## License
 
